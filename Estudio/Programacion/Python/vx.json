@@ -25,9 +25,19 @@
             "attachment_folder": "",
             "created_time": "2024-07-29T21:59:39Z",
             "id": "66",
-            "modified_time": "2024-07-29T21:59:54Z",
+            "modified_time": "2024-07-30T19:39:45Z",
             "name": "3.Tipos de datos estructurados.md",
             "signature": "5459487176828391627",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-07-30T19:40:09Z",
+            "id": "74",
+            "modified_time": "2024-07-30T19:40:26Z",
+            "name": "4. Funciones.md",
+            "signature": "207324088713625",
             "tags": [
             ]
         }
