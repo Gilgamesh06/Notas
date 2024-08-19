@@ -1,4 +1,4 @@
-#  Tipo de Software
+# 1.  Tipo de Software
 
 ## Free Software (Software Libre)
 
