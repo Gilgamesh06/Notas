@@ -86,7 +86,7 @@ Estas metricas se usan para evaluar la eficiencia de un modelo, especialmente en
 
 ### Regresion
 
-1. ***Error Cuadratico Medio (Mean Squared Error) MSE** 
+1. **Error Cuadratico Medio (Mean Squared Error) MSE** 
 
     * **Definicion** Mide el promedio de los cuadrados de los errores, es decir, la diferencia entre los valores predichos y los valores reales
     * **Formula**
