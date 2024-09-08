@@ -4,9 +4,6 @@
     ],
     "folders": [
         {
-            "name": "Cpp"
-        },
-        {
             "name": "Data Base"
         },
         {
@@ -17,6 +14,9 @@
         },
         {
             "name": "Python"
+        },
+        {
+            "name": "Java"
         }
     ],
     "id": "172",
