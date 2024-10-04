@@ -3,12 +3,15 @@
     "files": [
     ],
     "folders": [
-        {
-            "name": "Notas"
-        }
     ],
+<<<<<<< Updated upstream
     "id": "66",
     "modified_time": "",
     "signature": "207324093902102",
+=======
+    "id": "0",
+    "modified_time": "",
+    "signature": "207324094250009",
+>>>>>>> Stashed changes
     "version": 3
 }
