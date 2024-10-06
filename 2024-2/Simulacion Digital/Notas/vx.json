@@ -1,31 +1,61 @@
 {
-    "created_time": "2024-09-28T20:54:51Z",
+    "created_time": "2024-10-04T21:47:33Z",
     "files": [
         {
             "attachment_folder": "",
-            "created_time": "2024-09-28T20:54:53Z",
-            "id": "68",
-            "modified_time": "2024-09-28T20:54:53Z",
-            "name": "Simulacion Monte-Carlo Estadistica.md",
-            "signature": "5546498803319205149",
+            "created_time": "2024-10-04T21:47:35Z",
+            "id": "82",
+            "modified_time": "2024-10-04T21:47:35Z",
+            "name": "Bootstrap.md",
+            "signature": "5546498803319726711",
             "tags": [
             ]
         },
         {
             "attachment_folder": "",
-            "created_time": "2024-09-28T20:55:45Z",
-            "id": "75",
-            "modified_time": "2024-09-28T20:55:45Z",
-            "name": "Bootstrap.md",
-            "signature": "6857691953022659921",
+            "created_time": "2024-10-04T21:47:37Z",
+            "id": "83",
+            "modified_time": "2024-10-04T21:47:37Z",
+            "name": "Simulacion Monte-Carlo Estadistica.md",
+            "signature": "8223662518619366009",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-10-04T21:47:57Z",
+            "id": "84",
+            "modified_time": "2024-10-04T22:50:11Z",
+            "name": "Jackknife.md",
+            "signature": "8927815552030761613",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-10-04T22:50:41Z",
+            "id": "85",
+            "modified_time": "2024-10-04T22:51:21Z",
+            "name": "Jackknife After Boostrap.md",
+            "signature": "1749579338052825409",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-10-04T22:51:37Z",
+            "id": "86",
+            "modified_time": "2024-10-04T22:54:24Z",
+            "name": "Coeficiente de Correlacion.md",
+            "signature": "4749813615798808953",
             "tags": [
             ]
         }
     ],
     "folders": [
     ],
-    "id": "67",
-    "modified_time": "2024-09-28T20:54:51Z",
-    "signature": "784285915017669915",
+    "id": "81",
+    "modified_time": "2024-10-04T21:47:33Z",
+    "signature": "784285915018191477",
     "version": 3
 }
