@@ -1,0 +1,41 @@
+{
+    "created_time": "2024-10-07T22:22:08Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-10-07T22:22:08Z",
+            "id": "93",
+            "modified_time": "2024-10-07T22:22:08Z",
+            "name": "Clasificacion.md",
+            "signature": "1749579338053082896",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-10-07T22:22:08Z",
+            "id": "94",
+            "modified_time": "2024-10-07T22:22:08Z",
+            "name": "DeepLearning.md",
+            "signature": "4749813615799066384",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-10-07T22:22:08Z",
+            "id": "95",
+            "modified_time": "2024-10-07T22:22:08Z",
+            "name": "Introduccion.md",
+            "signature": "3670979438054760208",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "88",
+    "modified_time": "2024-10-07T22:22:08Z",
+    "signature": "207324094684944",
+    "version": 3
+}
