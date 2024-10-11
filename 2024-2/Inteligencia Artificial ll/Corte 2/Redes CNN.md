@@ -1,19 +1,19 @@
 # Redes CNN
 
-Las **Redes neuronales convolucionales** (CNN) son un tipo de red nueronal diseñada especificamente para trabajar con datos que tiene una estructura de tipo grilla, como imagenes. Su arquitectura es ideal para tareas de vision por computadora, ya que permite capturar caracteristicas especiales jerarquicas, reconociendo patrones como bordes, texturas, formas y objetos completos en las imagenes.
+Las **Redes neuronales convolucionales** (CNN) son un tipo de red neuronal diseñada especificamente para trabajar con datos que tiene una estructura de tipo grilla, como imagenes. Su arquitectura es ideal para tareas de vision por computadora, ya que permite capturar caracteristicas especiales jerarquicas, reconociendo patrones como bordes, texturas, formas y objetos completos en las imagenes.
 
 ## Composicion de una CNN
 
-* Las CNN estan compuestas por varias acapas interconectadas, donde cada capa realiza una tarea especifica:
+* Las CNN estan compuestas por varias capas interconectadas, donde cada capa realiza una tarea especifica:
 
     * **Capas Convolucionales (Convolutional layers)** Realiza convoluciones sobre la imagen de entrada para detectar caracteristicas locales mediante un **kernel** o **filtro**, una pequeña matriz que pasa sobre la imagen y realiza una operacion de convolucion.
-        * **Kernel** Es una pequeña matrizx que se desplaza sobre la imagen de entrada. Cada posicion del kernel se multiplica elemento con la parte correspondiente d ela imagen, y el resultado se suma. Este proceso resalta patrones especificos , como bordes , texturas , etc. Los tamaños comunes de los kernels son 3x3 y 5x5.
+        * **Kernel** Es una pequeña matriz que se desplaza sobre la imagen de entrada. Cada posicion del kernel se multiplica elemento con la parte correspondiente de la imagen, y el resultado se suma. Este proceso resalta patrones especificos , como bordes , texturas , etc. Los tamaños comunes de los kernels son 3x3 y 5x5.
         
-    * **Capas de Activacion (Activation Layers)** Despues de cada convolucion, se aplica una funcion de activacion, como     **ReLU (Rectified Linear Unit)**, que introduce no linealidad al modelo, permitiendo aprender patrones mas complejos.
+    * **Capas de Activacion (Activation Layers)** Despues de cada convolucion, se aplica una funcion de activacion, como **ReLU (Rectified Linear Unit)**, que introduce no linealidad al modelo, permitiendo aprender patrones mas complejos.
    
      * **Capas de Pooling** Reducen el tamaño especial de los datos, manteniendo las caracteristicas mas relevantes. Un tipo comun de es el **Max Pooling** que seleciona el valor maximo en un vencindario del mapa de caracteristicas.
     
-    * **Capas Completamente Conectadas (Fullu Connected Layers)** Esta capas estan al final de la red y estan diseñadas para combinar todas las caracteristicas extraidas por las capas convolucionales para realizar una prediccion final.
+    * **Capas Completamente Conectadas (Fully Connected Layers)** Esta capas estan al final de la red y estan diseñadas para combinar todas las caracteristicas extraidas por las capas convolucionales para realizar una prediccion final.
     
 ### Visualizacion de Activaciones
 
@@ -21,12 +21,16 @@ Permite ver que partes de la imagen estan activando las capas convolucionales. E
 
 ### Inicializacion de pesos
 
-* La inicializacion de los pesos en una CNN es importante para garantixar que el entrenamiento sea efectivo y evite problemas como el estancamiento o la explosion de gradientes. Existe diferentes esquemas de inicializacion:
+* La inicializacion de los pesos en una **CNN** es importante para garantizar que el entrenamiento sea efectivo y evite problemas como el estancamiento o la explosion de gradientes. Existe diferentes esquemas de inicializacion:
     
     * **Random Normal** Los pesos se inicializan de forma aleatoria usando una distribucion normal.
+  
     * **Random Uniform** Los pesos se inicializan aleatoriamente de forma uniforme dentro de un rango especifico.
+    
     * **Truncated Normal** Similar a **Random Normal**, pero cualquier valor que exceda 2 desviaciones estandar se descarta y se vuelve a generar.
-    * **LeCun Uniform** Diseñado especificamenta para redes con activaciones ReLU o tahn-
+    
+    * **LeCun Uniform** Diseñado especificamenta para redes con activaciones ReLU o tahn.
+    
     * **Glorot Normal (Xavier)** Normaliza los pesos en funcion del numero de entradas y salidas de la capa. evitando saturacion y explosion de gradientes.
     
 ### Dropout
@@ -35,7 +39,7 @@ El **Dropout** es una tecnica de regularizacion que ayuda a evitar el **overfitt
 
 ### Batch Normalization
 
-La **Normalizacion por lotes** (Batch Normalization) ayuda a establecer y aceler el entrenamiento de rede neuronales profundas al normalizar las entradas de cada capa de tal manera que su media sea cercana a cero y su varianza sea cercana  a uno. Reduce la sensibilidad a la inicializacion de los pesos y hace que el aprendizaje mas eficiente.
+La **Normalizacion por lotes** (Batch Normalization) ayuda a establecer y acelerar el entrenamiento de redes neuronales profundas al normalizar las entradas de cada capa de tal manera que su media sea cercana a cero y su varianza sea cercana  a uno. Reduce la sensibilidad a la inicializacion de los pesos y hace que el aprendizaje mas eficiente.
 
 ### Modelos Preentrenados
 
