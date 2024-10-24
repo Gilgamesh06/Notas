@@ -18,11 +18,11 @@ Una **prueba de hipotesis** es un procedimientos en estadistica inferencial que 
 4. **Obtener el valor (P-value)** el p-valor indica la probabilidad de observar un resultado al menos tan extremo como el observado, suponuendo que la hipotesis nula es verdadera.
 5. **Desicion** Si elp-valor es menor que el nivel de significacion (p < alfa), se rechaza la hipotesis nula. Si no, se falla en rechazarla.
 
-### Pruebas de HIpotesis con MonteCarlo
+### Pruebas de Hipotesis con MonteCarlo
 
 La **Prueba de hipotesis de MonteCarlo** es un enfoque que utiliza la simulacion de MonteCarlo para genera una distribucion de referencia bajo la hipotesis nula. Este metodo es util cuando la distribucion teorica de la estadistica de prueba no es conocida o es dificil de derivar. El proceso consiste en:
 
-1. **Simulacion bajo Ho** Se genera un gran nuemro de muestras aleatorias suponuendo que la hipotesis nulas es verdadera,
+1. **Simulacion bajo Ho** Se genera un gran numero de muestras aleatorias suponiendo que la hipotesis nulas es verdadera,
 2. **Calcular estadisticos de prueba** para cada muestra generada.
 
 3. **Distribucion de referencia** Con los estadisticos de prueba simulados, se construye una distribucion empirica bajo Ho.
@@ -31,7 +31,7 @@ La **Prueba de hipotesis de MonteCarlo** es un enfoque que utiliza la simulacion
 
 ### p-Value (Valor P) 
 
-* El **p-valor** es la probabilidad de obtener un resultado tan extremo como el observado, suponuendo que la hipotesis nula es verdadera. CUando menor es el p-valor, mayor es la evidencia en contra de la hipotesis nula. Formalmente:
+* El **p-valor** es la probabilidad de obtener un resultado tan extremo como el observado, suponiendo que la hipotesis nula es verdadera. Cuando menor es el p-valor, mayor es la evidencia en contra de la hipotesis nula. Formalmente:
 
     * Si p< alfa, se rechaza Ho.
     * Si p >= alfa, no se rechaza Ho

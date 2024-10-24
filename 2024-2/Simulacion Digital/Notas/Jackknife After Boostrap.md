@@ -8,7 +8,7 @@ El procedimiento  **Jackknife After Boostrap** consiste en aplicar Jackknife par
 
 El Boostrap por si solo proporciona estimaciones robustas del sesgo y la varianza. Sin embargo, no da una medida de **Cuan confiables** son  esas estimaciones. Ahi es donde entra el  Jackknife After Boostrapeste metodo evalua la **Variabilidad de las estimaciones Boostrap** al remover una muestra de Boostrap a la vez y observar como cambian los resultados. Es decir, te dice que tan estable es tu estimacion derivada del Boostrap.
 
-## COmo funciona 
+## Como funciona 
 
 Supongamos que ya hemos realizado un procedimiento de Boostrap estandar para obtener estimaciones de un parametro theta basandonos en nuestras de Boostrap
 
