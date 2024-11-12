@@ -79,3 +79,66 @@ $$
 
 * **Aprendizaje** La neurona MCP no aprende, solo responde a un conjunto de pesos fijos, mientras que le perceptron ajusta los pesos mediante aprendizaje.
 * **Aplicacion** La neurona MCP es un modelo logico, mientras que el perceptron es un clasificador lineal que puede aprender a clasificar datos.
+
+## ADALINE `Adaptative Linear Neuron`
+
+* Es un tipo de neurona que se vasa en una funcion linal para la prediccion, usanda comunmente en problemas de regrecion o como un paso previo en redes neuronales mas complejas. Se parece al perceptron, pero en vez de utilizar una funcion de activacion escalonada o binaria, usa una salida continua basada en una funcion lineal.
+
+### Estructura y Formula
+
+* La estructura basixa de una neurona **ADELINE** incluye:
+    * **Entradas** $x_{i}$ un conjunto de valores de entradas
+    * **Pesos** $w_{i}$ coeficientes que multiplican cada entrada para controlar su influencia.
+    *     * **Sesgo** $b$ un balor que se suma para ajustar la funcion de salida
+    
+* La formula para la salida de ADELINE es:
+
+$$
+y = w_{1}x_{1} + w_{2}x_{2} + ... + w_{n}x_{n} + b = \sum_{i=1}^{n}w_{i}x_{i} +b  
+$$
+
+#### Funcion de Activacion Lineal
+
+* A diferencia del perceptron clasico, **ADALINE** no aplica una funcion de activacion discreta en esta fase. La salida $y$ es continua y depende directamente de la combinacion lineal de entradas y pesos.
+
+#### Entrenamiento y Funcion de Costo
+
+* **ADALINE** minimiza el **error cuadratico mse `MSE`** entre la salida de la neurona y la etiqueta deseada. Esti se espresa como:
+   
+$$
+E = \frac{1}{2} \sum_{i=1}^{n} ( y_{deseado,i} - y_{predicho,i} )^{2}
+$$
+
+* donde $m$ es el numero de ejemplos de entrenamiento.
+
+#### Regla de Actualizacion (Gradiente Desendente)
+
+* Para ajustar los pesos, **ADALINE** usa **Gradiente Desendente** sobre la funcion de error, con cada paso $w_{i}$ actualizado por:
+    
+$$
+w_{i} = w_{i} + \eta  \cdot ( y_{deseado,i} - y_{predicho,i})x_{i}
+$$
+
+* donde:
+    * $\eta$ es la tasa de aprendizaje (learning rate)
+    * $y_{deseado}$ es el valor de salida deseado (labels)
+    * $y_{predicho}$ es el valor de salida calculado en la ultima pasada.
+    
+### Paso a Paso de `ADALINE`
+
+1. **Inicializacion**
+    * Asigna valores inciales a los pesos y el sesgo (bias)
+   
+2. **Propagacion hacia adelante**
+      * Calcula la salida continua $y$ aplicacndo la formula de la combinacion lineal de entradas y pesos.
+    
+3. **Calculo del error**
+    * Calcula  el error cuadratico medio entre  $y_{deseado}$ y $y_{predicho}$.
+    
+4. **Actualizacion de pesos**
+    * Aplica la regla de actualizacion de gradiente desendente para ajustar cada peso.
+    
+5. **Repeticion**
+    * Repite los pasos hasta que el error este por debajo de un umbral definidio o hasta alcanzar el numero maximo de iteraciones.
+    
+
