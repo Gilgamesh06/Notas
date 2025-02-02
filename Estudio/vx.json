@@ -19,16 +19,40 @@
             "name": "Linux"
         },
         {
-            "name": "Programacion"
-        },
-        {
             "name": "Redes"
         },
         {
-            "name": "Semillero"
+            "name": "Data Base"
+        },
+        {
+            "name": "Java"
+        },
+        {
+            "name": "Poo"
+        },
+        {
+            "name": "Python"
+        },
+        {
+            "name": "Vim"
+        },
+        {
+            "name": "Web"
+        },
+        {
+            "name": "JavaScript"
+        },
+        {
+            "name": "FrameWork"
+        },
+        {
+            "name": "Programacion Funcional"
+        },
+        {
+            "name": "Concurrencia"
         }
     ],
-    "id": "544",
+    "id": "1016",
     "modified_time": "2024-12-20T15:46:54Z",
     "signature": "10860933409449283950",
     "version": 3

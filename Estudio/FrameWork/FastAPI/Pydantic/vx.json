@@ -1,0 +1,31 @@
+{
+    "created_time": "2025-01-14T01:27:56Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2025-01-08T01:02:36Z",
+            "id": "742",
+            "modified_time": "2025-01-14T01:48:23Z",
+            "name": "PydanticModelado.md",
+            "signature": "2745519010610007724",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-01-14T01:28:14Z",
+            "id": "812",
+            "modified_time": "2025-01-14T02:23:03Z",
+            "name": "PydanticAnswer.md",
+            "signature": "10063553545330081198",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "807",
+    "modified_time": "2025-01-14T01:27:56Z",
+    "signature": "1854347076608310684",
+    "version": 3
+}

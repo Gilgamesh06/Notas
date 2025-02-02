@@ -1,0 +1,47 @@
+{
+    "created_time": "2025-01-12T13:37:47Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2025-01-12T13:37:54Z",
+            "id": "933",
+            "modified_time": "2025-01-12T13:54:49Z",
+            "name": "1.0. Introduccion.md",
+            "signature": "15695221325062981042",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-01-12T13:56:54Z",
+            "id": "931",
+            "modified_time": "2025-01-12T14:31:53Z",
+            "name": "1.1. FunctionLambda.md",
+            "signature": "17340948176076786214",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-01-12T14:33:53Z",
+            "id": "934",
+            "modified_time": "2025-01-12T14:53:24Z",
+            "name": "1.2. MetodosReferencia.md",
+            "signature": "5326611054892143313",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "Streams"
+        },
+        {
+            "name": "Interfaces Funcionales"
+        }
+    ],
+    "id": "769",
+    "modified_time": "2025-01-12T13:37:47Z",
+    "signature": "1988573759614993835",
+    "version": 3
+}

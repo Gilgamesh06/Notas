@@ -1,0 +1,41 @@
+{
+    "created_time": "2025-01-24T14:19:27Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2025-01-24T14:19:41Z",
+            "id": "957",
+            "modified_time": "2025-01-24T14:45:23Z",
+            "name": "1.0 Introduccion.md",
+            "signature": "4596173809472741757",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-01-24T14:45:39Z",
+            "id": "960",
+            "modified_time": "2025-01-24T15:05:49Z",
+            "name": "1.1. Anotaciones Principales.md",
+            "signature": "13678686638599022483",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-01-24T15:06:14Z",
+            "id": "963",
+            "modified_time": "2025-01-24T15:28:56Z",
+            "name": "1.2 Inyeccion de dependencias.md",
+            "signature": "9994304202774654054",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "952",
+    "modified_time": "2025-01-24T14:19:27Z",
+    "signature": "12460768363109654895",
+    "version": 3
+}

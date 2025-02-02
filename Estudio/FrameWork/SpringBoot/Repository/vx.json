@@ -1,0 +1,81 @@
+{
+    "created_time": "2025-01-22T17:01:43Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2025-01-22T17:01:53Z",
+            "id": "882",
+            "modified_time": "2025-01-22T17:22:51Z",
+            "name": "1.0 Introduccion.md",
+            "signature": "7572814229838832769",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-01-22T17:25:02Z",
+            "id": "885",
+            "modified_time": "2025-01-22T19:45:14Z",
+            "name": "1.1 Anotaciones Principales.md",
+            "signature": "10237570673678559726",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-01-22T19:46:08Z",
+            "id": "888",
+            "modified_time": "2025-01-22T20:03:54Z",
+            "name": "1.2. Metodos Predeterminados.md",
+            "signature": "5029342736110668544",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-01-22T20:06:52Z",
+            "id": "891",
+            "modified_time": "2025-01-22T20:43:25Z",
+            "name": "1.3. Metodos Personalizados.md",
+            "signature": "13142405202270310364",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-01-22T20:44:09Z",
+            "id": "894",
+            "modified_time": "2025-01-22T21:10:50Z",
+            "name": "1.4. Consultas Personalizadas.md",
+            "signature": "3635902830999591065",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-01-21T13:04:15Z",
+            "id": "847",
+            "modified_time": "2025-01-22T21:13:14Z",
+            "name": "1.5. JpaRepository.md",
+            "signature": "17784976356292926287",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-01-21T16:15:40Z",
+            "id": "848",
+            "modified_time": "2025-01-22T21:13:17Z",
+            "name": "1.6. Busquedas .md",
+            "signature": "12019376249136728108",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "879",
+    "modified_time": "2025-01-22T17:01:43Z",
+    "signature": "10814788444032672887",
+    "version": 3
+}

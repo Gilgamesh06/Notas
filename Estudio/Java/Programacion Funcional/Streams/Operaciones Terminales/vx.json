@@ -1,0 +1,61 @@
+{
+    "created_time": "2025-01-12T19:23:13Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2025-01-12T19:23:25Z",
+            "id": "788",
+            "modified_time": "2025-01-12T20:51:10Z",
+            "name": "Metodo-forEach.md",
+            "signature": "2620458737001043629",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-01-12T20:22:07Z",
+            "id": "790",
+            "modified_time": "2025-01-12T20:51:54Z",
+            "name": "Metodo-collect.md",
+            "signature": "16550358792689427567",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-01-12T20:52:27Z",
+            "id": "792",
+            "modified_time": "2025-01-12T21:06:55Z",
+            "name": "Metodo-count.md",
+            "signature": "8571665074169850763",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-01-12T21:20:12Z",
+            "id": "794",
+            "modified_time": "2025-01-12T21:36:34Z",
+            "name": "Metodo-reduce.md",
+            "signature": "15332227924908847628",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-01-13T12:33:34Z",
+            "id": "796",
+            "modified_time": "2025-01-13T12:49:02Z",
+            "name": "Metodo-toArray.md",
+            "signature": "18050193949779626014",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "795",
+    "modified_time": "2025-01-12T19:23:13Z",
+    "signature": "11130688073246185121",
+    "version": 3
+}
