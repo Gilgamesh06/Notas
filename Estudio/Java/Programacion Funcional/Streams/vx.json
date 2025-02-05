@@ -10,9 +10,25 @@
             "signature": "13435607389613316016",
             "tags": [
             ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-02-02T13:36:13Z",
+            "id": "1041",
+            "modified_time": "2025-02-02T13:36:13Z",
+            "name": "Streams.md",
+            "signature": "8659523702567695565",
+            "tags": [
+            ]
         }
     ],
     "folders": [
+        {
+            "name": "Operaciones Intermedias"
+        },
+        {
+            "name": "Operaciones Terminales"
+        },
         {
             "name": "Operaciones Intermedias"
         },

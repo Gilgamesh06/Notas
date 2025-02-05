@@ -60,6 +60,66 @@
             "signature": "10172391220656291196",
             "tags": [
             ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-02-02T13:36:13Z",
+            "id": "1075",
+            "modified_time": "2025-02-02T13:36:13Z",
+            "name": "Intefaz-Supplier.md",
+            "signature": "14886641036639040717",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-02-02T13:36:13Z",
+            "id": "1076",
+            "modified_time": "2025-02-02T13:36:13Z",
+            "name": "Interfaces-Funcionales.md",
+            "signature": "6196423871720027341",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-02-02T13:36:13Z",
+            "id": "1077",
+            "modified_time": "2025-02-02T13:36:13Z",
+            "name": "Interfaz-BinaryOperator.md",
+            "signature": "1323045736465528013",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-02-02T13:36:13Z",
+            "id": "1078",
+            "modified_time": "2025-02-02T13:36:13Z",
+            "name": "Interfaz-Consumer.md",
+            "signature": "16467024409830323405",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-02-02T13:36:13Z",
+            "id": "1079",
+            "modified_time": "2025-02-02T13:36:13Z",
+            "name": "Interfaz-Function.md",
+            "signature": "10411637533453546701",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-02-02T13:36:13Z",
+            "id": "1080",
+            "modified_time": "2025-02-02T13:36:13Z",
+            "name": "Interfaz-Predicate.md",
+            "signature": "8622151220735210701",
+            "tags": [
+            ]
         }
     ],
     "folders": [
