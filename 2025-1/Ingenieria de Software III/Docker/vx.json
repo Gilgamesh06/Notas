@@ -1,0 +1,74 @@
+{
+    "created_time": "2025-02-15T20:16:29Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2025-02-15T20:16:52Z",
+            "id": "29",
+            "modified_time": "2025-02-15T20:44:05Z",
+            "name": "1.0.0 Introduccion.md",
+            "signature": "3081552849510921780",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-02-15T20:44:44Z",
+            "id": "31",
+            "modified_time": "2025-02-15T21:17:25Z",
+            "name": "1.1.0 DokerFile.md",
+            "signature": "12666840881088756924",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-02-15T21:17:42Z",
+            "id": "33",
+            "modified_time": "2025-02-15T21:56:57Z",
+            "name": "1.2.0 Comandos Docker.md",
+            "signature": "1854963494612436086",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-02-16T12:26:21Z",
+            "id": "35",
+            "modified_time": "2025-02-16T13:06:59Z",
+            "name": "1.2.1 Redes.md",
+            "signature": "6275134155352299885",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-02-16T13:07:30Z",
+            "id": "37",
+            "modified_time": "2025-02-16T13:54:08Z",
+            "name": "1.2.2 Volumenes.md",
+            "signature": "6078846156990964498",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-02-16T13:54:33Z",
+            "id": "39",
+            "modified_time": "2025-02-16T14:35:31Z",
+            "name": "1.3.0 Docker Compose.md",
+            "signature": "11395232301763915289",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "Taller"
+        }
+    ],
+    "id": "44",
+    "modified_time": "2025-02-15T20:16:29Z",
+    "signature": "12672427688648046109",
+    "version": 3
+}
